@@ -1,4 +1,4 @@
-# Tatkal_Tickets_Booking
+# Tatkal_Tickets_Booking_by_Using_Automation_Tool
 # Hackathon_Project
 Currently booking a Tatkal ticket through IRCTC is a very tedious and time-consuming job. There are many challenges faced by a user, from server downtime or timeouts to poor network connectivity. Even after having logged in, it takes time to fill data, navigate through all the forms and make payment to complete the booking.
 
