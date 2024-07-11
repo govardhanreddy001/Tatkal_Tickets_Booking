@@ -7,3 +7,6 @@ As Lakhs of people try to book tickets every day, for a user to get confirmed ti
 Our solution template using RPA's UiPath is aimed at addressing this issue. We as a team of certified RPA's UiPath developers, aim to improve user’s experience by automating mundane but important tasks. Booking Tatkal tickets is as simple as filling a simple XLS file and our solution will take care of the rest!.
 
 With this, life will just get easier for lakhs of people every single day who try to book their Tatkal tickets.
+
+Demo Website Link:https://govardhanreddy001.github.io/Train_Tatkhal2/
+
