@@ -1,6 +1,6 @@
 # Tatkal_Tickets_Booking_by_Using_Automation_Tool
 # Hackathon_Project
-atkal Ticket Booking Simulation using RPA (UiPath) – Hackathon Project
+Tatkal Ticket Booking Simulation using RPA (UiPath) – Hackathon Project
 March 2024 | GitHub Demo: https://govardhanreddy001.github.io/Train_Tatkhal2/
 
 Built an educational prototype to simulate how Robotic Process Automation (RPA) tools like UiPath can streamline repetitive tasks in ticket booking systems.
